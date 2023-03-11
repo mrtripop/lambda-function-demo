@@ -1,6 +1,8 @@
 # Lambda Function Demo
 
-This project for demo way to implement AWS Lambda function on local machine.
+This project for demo way to implement AWS Lambda function on local machine.<br/>
+
+See more detail on medium: https://medium.com/@mrtripop/write-aws-lambda-with-javascript-ebe983be1a08
 
 ## Prerequisite
 
