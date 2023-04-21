@@ -1,4 +1,4 @@
-# Lambda Function Demo
+# AWS Lambda Function Demo
 
 This project for demo way to implement AWS Lambda function on local machine.<br/>
 
